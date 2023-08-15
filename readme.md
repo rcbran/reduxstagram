@@ -1,4 +1,5 @@
-https://learnredux.com/
+Instagram clone with react + redux
+- based off wesbos class -- https://learnredux.com/
 
 <img width="1208" alt="Screenshot 2023-08-15 at 10 59 45 AM" src="https://github.com/rcbran/reduxstagram/assets/10733387/76fba14e-e8ef-45b4-b506-df30716f952a">
 
